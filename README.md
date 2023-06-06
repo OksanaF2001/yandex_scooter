@@ -1,1 +1,1 @@
-# yandex_samokat
+# yandex_scooter
